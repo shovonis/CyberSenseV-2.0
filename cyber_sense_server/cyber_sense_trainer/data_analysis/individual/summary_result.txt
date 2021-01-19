@@ -1,0 +1,18 @@
+
+Individual: 3
+Test RMSE: 2.477
+TEST R square: 0.125
+TEST MAE: 2.236
+TEST Median AE: 2.470
+
+Individual: 6
+Test RMSE: 4.605
+TEST R square: -0.806
+TEST MAE: 4.412
+TEST Median AE: 3.860
+
+Individual: 7
+Test RMSE: 2.229
+TEST R square: -2.731
+TEST MAE: 1.769
+TEST Median AE: 1.120
