@@ -11,7 +11,7 @@ Researchers often collect subjective measurements before, after, and during the 
 
 
 # Architechture: 
-![Screenshot](overview.jpg)
+![Screenshot](overview.PNG)
 
 
 # Stepts to Run: 
